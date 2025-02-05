@@ -6,9 +6,9 @@ This is the 2nd sucsessful discord bot that I made. Anyone can contribute as thi
 
 This is what the data class looks like(the current code passes this data to all commands)
 class data:
-                    Channel = channel  (as in message.channel)
-                    Message = message
-                    Client = client  (as in discord.client)
+                    \nChannel = channel  (as in message.channel)
+                    \nMessage = message
+                    \nClient = client  (as in discord.client)
                     RawText = text  (as in message.content)
                     TextList = textList (a split version of the rawText)
                     Commands = commands (a list of all commands(the names))
