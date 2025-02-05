@@ -2,7 +2,7 @@
 
 This is the 2nd sucsessful discord bot that I made. Anyone can contribute as this is not a very complex project.
 
-# for developers:
+# For developers:
 
 This is what the data class looks like(the current code passes this data to all commands)
 class data:
